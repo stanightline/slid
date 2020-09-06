@@ -62,7 +62,6 @@ jobs:
         branch: master
 
     - name: Update GitHub Pages branch
-      if: steps.checkmod.outputs.filechanged == 'yes'
       run: |
         git subtree split --prefix src -b gh-pages
         git push -f "https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git" gh-pages:gh-pages

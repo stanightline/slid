@@ -10,7 +10,7 @@ $(document).ready(function () {
   // prepare sidenav for mobile
   $('.sidenav').sidenav();
   // collapsibles
-  // $('.collapsible').collapsible();
+  $('.collapsible').collapsible();
 
   // prepare isotope filtering with dict and custom filtering function
   var filters = {};
@@ -22,6 +22,16 @@ $(document).ready(function () {
     }
     return value;
   }
+
+  // sidenav: populate collapsibles with same content as dropdowns
+  // quick and dirty copy over from the actual dropdowns
+  var filtercat = document.getElementById("dropdown-cat").cloneNode(true);
+  filtercat.classList.remove("dropdown-content");
+  document.getElementById("collapsible-cat").innerHTML = filtercat.outerHTML;
+
+  var filtergeo = document.getElementById("dropdown-geo").cloneNode(true);
+  filtergeo.classList.remove("dropdown-content");
+  document.getElementById("collapsible-geo").innerHTML = filtergeo.outerHTML;
 
   // isotope: filter cards, intersect filters with different groups
   $(".slid-filter").on('click', function() {

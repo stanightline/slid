@@ -62,6 +62,11 @@ to your specific service.
 
 **Before forking the repo, consider reading [section 4](#4-activate-github-pages-hosting) which may give recommendations about what to name your fork.**
 
+This repository automates lots of things so that you don't have to edit raw HTML at any point. It does this using
+[GitHub Actions](https://github.com/features/actions).
+When you initially fork the repository, the original Actions are disabled by default. To activate them and set up auto-updates,
+go to the "Actions" tab of your fork and confirm that you are happy for the original repository's actions to run.
+
 ### 2. Edit the information files
 *This step can be repeated at any point, when you wish to update, add, or remove information from your copy of **slid***.
 
@@ -166,7 +171,7 @@ Depending on what domain name is available to you, you should read a different s
 We will assume throughout that:
 
 - Your Nightline (or other organisation) is called *Your Nightline* (replace that with your actual name)
-- Your Nightline(or other organisation)'s GitHub username is "*@yournightline*".
+- Your Nightline (or other organisation)'s GitHub username is "*@yournightline*".
 
 Now choose one of the following options:
 
