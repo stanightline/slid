@@ -27,19 +27,19 @@
     - UK
     
  - title: Trans Lifeline
-   content: |
+  content: |
      Trans Lifeline is a trans-led organization that connects trans people to the community, support, and resources they need to survive and thrive. 
      
      Open to those who identify as trans, are questioning whether they are trans, or have trans loved ones
      
      All operators are trans themselves and can speak both English and Spanish
-   links: 
+  links: 
      - text: Website
        url: https://www.translifeline.org/
      - text: 877 330 6366 (Canada)
        url: tel:8773306366
      - text: 877 565 8860 (USA)
        url: tel:8775658860
-   locations:
+  locations:
      - Canada and USA
     
