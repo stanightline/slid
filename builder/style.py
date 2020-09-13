@@ -27,5 +27,6 @@ with the palette available here: https://materializecss.com/color.html.
 style = {
         "Intro" : "red",
         "More Cards" : "blue",
-        "Another Category" : "amber"
+        "Another Category" : "amber",
+        "Sexuality" : "purple"
         }
