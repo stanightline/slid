@@ -1,5 +1,0 @@
-- title: 3. This is another card.
-  content: |
-    Notice is has a different colour; that's because it's from a different category. You can filter by category in the navbar above. The cards belonging to each category are stored in separate .yml files, one per category, in the info/ folder of the repository. All the information stored on the card corresponds to a single bullet point in the relevant .yml file. Under that bullet point, you can specify the card's title, content, links, tags, and image.
-  locations:
-    - UK
