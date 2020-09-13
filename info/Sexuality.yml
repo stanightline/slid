@@ -1,0 +1,44 @@
+- title: LGBT Foundation
+  content: |
+    An organisation that delivers support in a wide variety of ways, from peer support to sexual health screenings, help in accessing therapy
+  links:
+    - text: Website
+      url: https://lgbt.foundation/
+    - text: 0345 3 30 30 30
+      url: tel:+443453303030
+  locations:
+    - UK
+
+- title: LGBT Health & Wellbeing
+  content: |
+    LGBT Health and Wellbeing works to improve the health, wellbeing and equality of life of LGBTQ+ people in Scotland, providing both information and listening/support.
+    
+    Can be contacted tuesdays and wednesdays between 12pm and 9pm.
+    
+    They also offer messaging services and a BSL user service.
+  links:
+    - text: Website
+      url: https://www.lgbthealth.org.uk/
+    - text: 0300 1 23 25 23
+      url: tel:+443001232523
+    - text: Online Resources
+      url: https://digitallearningday.org/online-resources/
+  locations:
+    - UK
+    
+- title: Trans Lifeline
+  content: |
+    Trans Lifeline is a trans-led organization that connects trans people to the community, support, and resources they need to survive and thrive. 
+    
+    Open to those who identify as trans, are questioning whether they are trans, or have trans loved ones
+    
+    All operators are trans themselves and can speak both English and Spanish
+  links: 
+    - text: Website
+      url: https://www.translifeline.org/
+    - text: 877 330 6366 (Canada)
+      url: tel:8773306366
+    - text: 877 565 8860 (USA)
+      url: tel:8775658860
+  locations:
+    - Canada and USA
