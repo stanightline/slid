@@ -42,3 +42,16 @@
       url: tel:8775658860
   locations:
     - Canada and USA
+    
+- title: Swtchboard
+  content: |
+    Switchboard offers advice and support without telling you what to do. All their helplines are staffed and run by self- defined members of the LGBTQ+ community.
+    
+    They offer listening as well as information services. They can be contacted by phone from 10am - 10pm every day
+  links:
+    - text: Website
+      url: https://switchboard.lgbt/
+    - text: 0300 330 0630
+      url: tel:03003300630
+  locations:
+    - UK
