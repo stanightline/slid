@@ -55,3 +55,16 @@
       url: tel:03003300630
   locations:
     - UK
+    
+- title: Mindline Trans+
+  content: |
+    MindLine Trans+ offers  confidential emotional, mental health support helpline for people who identify as Trans, Agender, Gender Fluid or Non-Binary and their loved ones
+    
+    They are open Mondays and Fridays from 8pm to midnight and can be contacted from anywhere in the UK.
+  links:
+    - text: Website
+      url: https://bristolmind.org.uk/help-and-counselling/mindline-transplus/
+    - text: 0300 330 5468
+      url: tel:03003305468
+  locations:
+    - UK
