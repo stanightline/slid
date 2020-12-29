@@ -176,6 +176,21 @@ def dict_to_html(card, category, colour):
         out += "\n" + INDENT
         out += "</div>"
     
+    # add locations at bottom of card.
+    if locations:
+        out += "\n\n" + INDENT
+        out += "<div class=\"beans\">"
+        for loc in locations:
+            out += "\n" + 2 * INDENT
+            out += "<div class=\"bean " + colour + " darken-4 "
+            out += colour + "-text text-lighten-3\">"
+            out += "\n" + 3 * INDENT
+            out += loc
+            out += "\n" + 2 * INDENT
+            out += "</div>"
+        out += "\n" + INDENT
+        out += "</div>"
+    
     out += "\n"
     out += "</div>"
     

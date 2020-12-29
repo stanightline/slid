@@ -22,3 +22,20 @@
 .input-field .prefix.active {
     color: #90caf9;
 }
+
+.beans {
+  margin: 0px 0px 10px 20px;
+}
+
+.bean{
+  height: 20px;
+  line-height: 20px;
+  background: gray;
+  text-align: center;
+  display: inline-block;
+  padding: 0px 8px 0px 8px;
+  border-radius: 15px;
+  position: relative;
+  margin: 0px 3px 5px 0px;
+  font-size: 80%;
+}
