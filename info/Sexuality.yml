@@ -88,7 +88,7 @@
     
     The Mermaids phone helpline, online chat and text chat services are all available 9am-9pm Mon-Fri.
   links:
-    - text: Phone: 0808 801 0400
+    - text: Phone 0808 801 0400
       url: tel:08088010400
     - text: Website
       url: https://mermaidsuk.org.uk/
@@ -123,7 +123,7 @@
     
     The helpline is staffed by experienced, trained, non-judgemental, non-directive staff and volunteers.
   links:
-    - text: Phone: 0300 123 2523
+    - text: Phone  0300 123 2523
       url: tel:03001232523
     - text: helpline@lgbthealth.org.uk
       url: mailto:helpline@lgbthealth.org.uk
@@ -139,7 +139,7 @@
   links:
     - text: Website
       url: https://www.lgbtyouth.org.uk/groups-and-support/
-    - text: Text: 07984 356 512
+    - text: Text 07984 356 512
       url: tel:07984356512
     - text: info@lgbtyouth.org.uk
       url: mailto:info@lgbtyouth.org.uk
@@ -157,7 +157,7 @@
   links:
     - text: Website
       url: http://www.galop.org.uk/
-    - text: Email: advice@galop.org.uk
+    - text: Email advice@galop.org.uk
       url: advice@galop.org.uk
     - text: Helpline: 0800 999 5428
       url: tel:08009995428
