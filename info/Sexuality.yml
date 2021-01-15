@@ -68,3 +68,109 @@
       url: tel:03003305468
   locations:
     - UK
+
+- title: MindOut
+  content: |
+    MindOut works to improve the mental health and wellbeing of LGBTQ+ communities. 
+    
+    They offer online chat support and advice, peer support groups, and advocacy for LGBT+ people of all ages; the service is entirely run and staffed by LGBQ+ people. The mental health chat service is available at different times on different days, which are shown on their website.
+  links:
+    - text: Website
+      url: https://mindout.org.uk/
+    - text: Online support
+      url: https://mindout.org.uk/get-support/mindout-online/
+  locations:
+    - UK
+
+- title: Mermaids
+  content: |
+    Mermaids offers resources and support to gender-diverse children and young people in the UK (up to age 20) and their families.
+    
+    The Mermaids phone helpline, online chat and text chat services are all available 9am-9pm Mon-Fri.
+  links:
+    - text: Phone: 0808 801 0400
+      url: tel:08088010400
+    - text: Website
+      url: https://mermaidsuk.org.uk/
+    - text: Text MERMAIDS to 85258
+      url: 85258
+  locations:
+    - UK
+
+- title: Scottish Trans Alliance
+  content: |
+    Government-funded project working for trans equality in Scotland. They do not offer immediate support, but have resources on trans rights and offer training.
+  links:
+    - text: Website
+      url: https://www.scottishtrans.org/
+   locations:
+     - UK
+     - Scotland
+
+- title: Equality Network
+  content: |
+    National charity working for lesbian, gay, bisexual, transgender and intersex equality and human rights in Scotland. They do not offer immediate support, but have resources on LGBTI rights.
+  links:
+    - text: Website
+      url: https://www.equality-network.org/
+  locations:
+    - UK
+    - Scotland
+
+- title: LGBT Helpline Scotland
+  content: |
+    Provide information and emotional support to lesbian, gay, bisexual and transgender people and their families, friends and supporters across Scotland. They can also support those questioning or wanting to discuss their sexuality or gender identity.
+    
+    The helpline is staffed by experienced, trained, non-judgemental, non-directive staff and volunteers.
+  links:
+    - text: Phone: 0300 123 2523
+      url: tel:03001232523
+    - text: helpline@lgbthealth.org.uk
+      url: mailto:helpline@lgbthealth.org.uk
+    - text: Website
+      url: https://www.lgbthealth.org.uk/services-support/lgbt-helpline-scotland/
+  locations:
+    - UK
+    - Scotland
+
+- title: LGBT Youth Scotland
+  content: |
+    Provide support and resources for young LGBT people in Scotland. They also have a confidential Live Chat feature on their website, run by digital Youth Workers, on Mondays and Thursdays 6pm-8pm.
+  links:
+    - text: Website
+      url: https://www.lgbtyouth.org.uk/groups-and-support/
+    - text: Text: 07984 356 512
+      url: tel:07984356512
+    - text: info@lgbtyouth.org.uk
+      url: mailto:info@lgbtyouth.org.uk
+  locations:
+    - UK
+    - Scotland
+
+- title: Galop
+  content: |
+    UK based, LGBT+ anti violence charity. Provides hate crime, domestic abuse, and sexual violence support for LGBT+ individuals. You can contact them through the online form on their page, through email, text message, WhatsApp, or phone. They also have a peer-to-peer online forum for LGBT+ suvivors of domestic abuse.
+    
+    Email at advice@galop.org.uk is open Monday-Friday 10am-4pm.
+    
+    National Lesbian, Gay, Bisexual, and Trans+ Domestic Helpline: 0800 999 5428 Monday to Friday: 10:00am - 5:00pm. Wednesday to Thursday: 10:00am - 8:00pm.
+  links:
+    - text: Website
+      url: http://www.galop.org.uk/
+    - text: Email: advice@galop.org.uk
+      url: advice@galop.org.uk
+    - text: Helpline: 0800 999 5428
+      url: tel:08009995428
+  locations:
+    - UK
+
+- title: Mind for LGBTQI+
+  content: |
+    Webpage which gives information about mental health support for people who are lesbian, gay, bisexual, trans, intersex, queer or questioning (LGBTIQ+). There is a list of useful contacts on the page.
+  links:
+    - text: Website
+      url: https://www.mind.org.uk/information-support/tips-for-everyday-living/lgbtiqplus-mental-health/about-lgbtiqplus-mental-health/
+    - text: Useful contacts
+      url: https://www.mind.org.uk/information-support/tips-for-everyday-living/lgbtiqplus-mental-health/useful-contacts/
+  locations:
+    - UK
