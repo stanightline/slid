@@ -103,9 +103,9 @@
   links:
     - text: Website
       url: https://www.scottishtrans.org/
-   locations:
-     - UK
-     - Scotland
+  locations:
+    - UK
+    - Scotland
 
 - title: Equality Network
   content: |
