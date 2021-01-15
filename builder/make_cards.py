@@ -167,7 +167,7 @@ def dict_to_html(card, category, colour):
         for link in links:
             count += 1
             out += "\n" + 2 * INDENT
-            out += "<a href=\"" + link[0] + "\">"
+            out += "<a href=\"" + str(link[0]) + "\">"
             out += "\n" + 3 * INDENT
             out += "<span class=\"" + colour + "-text text-darken-4\">"
             out += esc(link[1])
