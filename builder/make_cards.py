@@ -2,9 +2,12 @@ from bs4 import BeautifulSoup
 import sys
 import yaml
 import os
-from style import style as colours
 
 SOURCE, OUTPUT = sys.argv[1], sys.argv[2]
+
+with open(os.path.join(SOURCE, "_colours.yml"), "r") as file:
+    colours = yaml.load(file, Loader=yaml.FullLoader)
+
 
 ESCDICT = {
         "&" : "&amp;",
@@ -264,7 +267,7 @@ cat_set = set()
 geo_set = set()
 
 for filename in os.listdir(SOURCE):
-    if filename.endswith(".yml") or filename.endswith(".yaml"):
+    if (filename.endswith(".yml") or filename.endswith(".yaml")) and filename != "_colours.yml":
 
         sourcefile = os.path.join(SOURCE, filename)
         # The category is the filename with no extension.
