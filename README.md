@@ -39,14 +39,14 @@ Rather than having to edit the HTML source code directly, you edit a set of huma
 Then, when your changes are applied to your copy of this GitHub repository, another program automatically converts the contents
 of the information files into machine-readable HTML which is then displayed on your website.
 
-To know what colour each category should be displayed in, the program looks at the file called `style.py` in the `builder/` folder.
+To know what colour each category should be displayed in, the program looks at the file called `_colours.yml` in the `info/` folder.
 The next section will explain how to edit this file if you create a new category or rename a category.
 
 If you wish to add images to some cards, those images must be placed into the `src/img/cards/` folder.
 
 Apart from what's listed above, you should never have to do anything with the other folders in this repository.
 The `src/` folder contains the source code for your website, which is what gets updated when you modify the information files.
-The `builder/` folder, aside from `style.py`, contains the program which converts your information files into source code.
+The `builder/` folder contains the program which converts your information files into source code.
 The `.github/` folder contains instructions telling GitHub to run the card-making program every time you modify the information file.
 
 ## How do I use **slid**?
@@ -149,19 +149,16 @@ When building the webpage, **slid** will create a drop-down location filter
 which will contain all the locations you have entered in your information files.
 
 ### 3. Edit the style file
-Every time you add or rename a `.yml` file in the `info/` folder, you have to update the `builder/style.py`
+Every time you add or rename a `.yml` file in the `info/` folder, you have to update the `info/_colours.yml`
 file to let **slid** know what colour each file should be displayed as.
 To continue the example from above, suppose you have created a new cateogory in the file `Helplines.yml`,
-and you want the Helplines colour to be green. You need to add the following line in the list of colours in `style.py`:
-```python
-        "Helplines" : "green",
+and you want the Helplines colour to be green. You need to add the following line in the list of colours in `_colours.yml`:
+```yaml
+Helplines: green
 ```
 make sure that you:
-- Have surrounded both the category name and colour name in quotes,
-- Have added a comma at the end of the line,
-- Have used a colour from the list at the top of the file,
-- Have entered the category name so that it is identical to the filename, but with no `.yml` at the end;
-- Have inserted your new line after the opening curly bracket, and before the closing one.
+- Have used a colour from the list at the top of the file;
+- Have entered the category name so that it is identical to the filename, but with no `.yml` at the end.
 
 ### 4. Activate GitHub Pages hosting
 
@@ -247,7 +244,7 @@ At this point, your website should be live at the address mentioned above!
 
 ## All (or some) of my cards are yellow!
 The default colour for **slid** cards is yellow, so if **slid** doesn't know what colour to use, it will appear as yellow.
-Remember to update the `builder/style.py` file to tell **slid** what colour you want each category to be displayed as.
+Remember to update the `info/_colours.yml` file to tell **slid** what colour you want each category to be displayed as.
 There are instructions on how to do this above.
 Also, make sure that the colour you requested is in the list of colours supplied at the top of the style file, and
 you have written the colour name exactly as it is written in that list (all lowercase, with a dash in between words for
