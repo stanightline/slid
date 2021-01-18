@@ -37,9 +37,9 @@
     - text: Website
       url: https://www.translifeline.org/
     - text: 877 330 6366 (Canada)
-      url: tel:8773306366
+      url: tel:+18773306366
     - text: 877 565 8860 (USA)
-      url: tel:8775658860
+      url: tel:+18775658860
   locations:
     - Canada and USA
     
@@ -52,7 +52,7 @@
     - text: Website
       url: https://switchboard.lgbt/
     - text: 0300 330 0630
-      url: tel:03003300630
+      url: tel:+443003300630
   locations:
     - UK
     
@@ -65,7 +65,7 @@
     - text: Website
       url: https://bristolmind.org.uk/help-and-counselling/mindline-transplus/
     - text: 0300 330 5468
-      url: tel:03003305468
+      url: tel:+443003305468
   locations:
     - UK
 
@@ -89,11 +89,11 @@
     The Mermaids phone helpline, online chat and text chat services are all available 9am-9pm Mon-Fri.
   links:
     - text: Phone 0808 801 0400
-      url: tel:08088010400
+      url: tel:+448088010400
     - text: Website
       url: https://mermaidsuk.org.uk/
     - text: Text MERMAIDS to 85258
-      url: 85258
+      url: tel:85258
   locations:
     - UK
 
@@ -124,7 +124,7 @@
     The helpline is staffed by experienced, trained, non-judgemental, non-directive staff and volunteers.
   links:
     - text: Phone  0300 123 2523
-      url: tel:03001232523
+      url: tel:+443001232523
     - text: helpline@lgbthealth.org.uk
       url: mailto:helpline@lgbthealth.org.uk
     - text: Website
@@ -140,7 +140,7 @@
     - text: Website
       url: https://www.lgbtyouth.org.uk/groups-and-support/
     - text: Text 07984 356 512
-      url: tel:07984356512
+      url: tel:+447984356512
     - text: info@lgbtyouth.org.uk
       url: mailto:info@lgbtyouth.org.uk
   locations:
@@ -158,9 +158,9 @@
     - text: Website
       url: http://www.galop.org.uk/
     - text: Email advice@galop.org.uk
-      url: advice@galop.org.uk
+      url: mailto:advice@galop.org.uk
     - text: Helpline 0800 999 5428
-      url: tel:08009995428
+      url: tel:+448009995428
   locations:
     - UK
 
