@@ -174,3 +174,49 @@
       url: https://www.mind.org.uk/information-support/tips-for-everyday-living/lgbtiqplus-mental-health/useful-contacts/
   locations:
     - UK
+
+- title: Regard
+  content: |
+    Regard is a national organisation of LGBTQ+ people who self-identify as disabled.
+    
+    Their website provides news, advice articles, and resources for allies of LGBTQ+ disabled people.
+  links:
+    - text: Website
+      url: http://regard.org.uk/
+  locations:
+    - UK
+
+- title: Gendered Intelligence
+  content: |
+    Focuses on supporting young trans people under the age of 21. This organisation offers youth groups (currently online for covid-19), where youth workers are trans and/or non-binary.
+    
+    The website also offers a variety of resources for young people.
+  links:
+    - text: Website
+      url: http://genderedintelligence.co.uk/
+  locations:
+    - UK
+
+- title: Imaan
+  content: |
+    A UK LGBTQI Muslim charity which offers support meetings and faith activity.
+  links:
+    - text: Website
+      url: https://www.facebook.com/imaanlgbtq/
+    - text: Contact imaanlgbtq@gmail.com
+      url: mailto:imaanlgbtq@gmail.com
+  locations:
+    - UK
+
+- title: Hidayah LGBT
+  content: |
+    Offers support to LGBT+ Muslims. They have a confidential email service and a mentoring scheme; large UK cities have in-person meetings once a month (London, Bristol, Birmingham, Leeds, Manchester, and alternating between Glasgow/Edinburgh and Cardiff/Newport).
+    
+    Use the subject line "CONFIDENTIAL - Enquiry" in an email to the confidential email service linked below.
+  links:
+    - text: Website
+      url: https://www.hidayahlgbt.com/
+    - text: Email: info@hidayahlgbt.co.uk
+      url: mailto:info@hidayahlgbt.co.uk
+  locations:
+    - UK
