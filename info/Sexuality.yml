@@ -32,7 +32,7 @@
     
     Open to those who identify as trans, are questioning whether they are trans, or have trans loved ones
     
-    All operators are trans themselves and can speak both English and Spanish
+    All operators are trans themselves and can speak both English and Spanish.
   links: 
     - text: Website
       url: https://www.translifeline.org/
@@ -220,3 +220,145 @@
       url: mailto:info@hidayahlgbt.co.uk
   locations:
     - UK
+
+- title: The Trevor Project
+  content: |
+    Listening and advice service for LGBT+ youth (under 25). They offer a 24/7 crisis intervention and suicide prevention hotline, a text service, and an IM service.
+  links:
+    - text: Website
+      url: https://www.thetrevorproject.org/
+    - text: Call 1-866-488-7386
+      url: tel:+18664887386
+    - text: Text START to 678-678
+      url: tel:678678
+  locations:
+    - Canada and USA
+
+- title: LGBT National Hotline
+  content: |
+    Provides telephone, online private one-to-one chat, and email peer-support. The hotline is a confidential and anonymous safe space for callers to discuss issues and concerns like coming out issues, gender and/or sexuality identities, relationship concerns, bullying, workplace issues, suicide, and much more. Staff are trained volunteers who identify somewhere on the LGBTQ spectrum.
+
+    The website also offers information, including lists of local resources across towns and cities in the USA.
+
+    The hotline is opening weekday evenings, and Saturday in the middle of the day; check the website for details.
+  links:
+    - text: Website
+      url: https://www.glbthotline.org/hotline.html
+    - text: Call 888-843-4564
+      url: tel:+18888434564
+    - text: Email help@LGBThotline.org
+      url: mailto:help@LGBThotline.org
+  locations:
+    - Canada and USA
+
+- title: PFLAG Hotlines Page
+  content: |
+    Hotlines page for LGBT+ specific contact points. This website also contains support sections for allies and family members, with information and resources.
+
+    PFLAG is an LGBT+ individual, family and ally organisation and the website homepage has information about finding a local chapter in the US.
+  links:
+    - text: Webite
+      url: https://pflag.org/hotlines
+  locations:
+    - Canada and USA
+
+- title: The GLBT National Resources Database
+  content: |
+    This website has a list of over 15000 GLBT resources in the US. You can search local ones by zip code and travel distance and by category.
+  links:
+    - text: Website
+      url: https://www.glbtnearme.org/
+  locations:
+    - Canada and USA
+
+- title: National Black Justice Coalition
+  content: |
+    The NBJC is a civil rights organisation dedicated to the empowerment of Black lesbian, gay, bisexual, and transgender people. Their website also offers a number of resources.
+  links:
+    - text: Website
+      url: http://nbjc.org/
+  locations:
+    - Canada and USA
+
+- title: ILGA
+  content: |
+    An organisation working towards equality and human rights for lesbian, gay, bisexual, trans and intersex people in Europe and Central Asia. Their website offers a number of resources, including on mental health for LGBTI people.
+  links:
+    - text: Website
+      url: https://www.ilga-europe.org/
+  locations:
+    - Europe
+    - UK
+
+- title: Beijing LGBT+ Center
+  content: |
+    A public welfare organization that provides psychological counseling, legal counseling, and community services in Beijing.
+
+    They also offer a confidential support hotline for transgender people, people in a state of anxiety or doubt about their gender, or anyone with relatives or friends in that situation. They are able to offer one hour of consultation a week.
+  links:
+    - text: Website
+      url: http://www.bjlgbtcenter.org.cn/
+    - text: Transgender Hotline
+      url: http://www.bjlgbtcenter.org.cn/s--240.html
+  locations:
+    - China
+
+- title: OUT South Africa
+  content: |
+    Provides health services, counselling, and general support to LGBTQ+ people, sex workers, MSM, and injecting drug users in South Africa.
+
+    The organisation has clinics in Johannesburg and Pretoria that are able to provide health services. Telephone and video counselling appointments can be booked at 012 430 3272.
+  links:
+    - text: Website
+      url: https://out.org.za/
+    - text: Counselling
+      url: tel:27124303272
+  locations:
+    - South Africa
+
+- title: Ahwaa
+  content: |
+    An anonymous and secure Arab LGBTQ+ network for those across the Middle East and North Africa that works like a forum. Offers chat rooms and in-person meetups, and the forum is gamefied so that only trusted users can access additional privileges.
+  links:
+    - text: Website
+      url: https://ahwaa.org/
+  locations:
+    - Middle East
+    - North Africa
+
+- title: Saints LGBT+
+  content: |
+    A subcommittee of the Students' Association with the purpose of providing support and resources for the LGBT+ student community at St Andrews. They organize a range of events throughout the academic year.
+    
+  Coffee Meetups: most Sundays, they run coffee meetups where anyone can drop by for coffee, tea, or biscuits. Each one has a particular identity it is geared towards. Reach out via their contact details to know more.
+
+  Trans Clothing Drive: if you’re transgender and looking to update your wardrobe to better match your gender, Saints LGBT+ have got a collection of donated clothing. Just email their support email, queerpeers@st-andrews.ac.uk, and someone will be happy to set something up.
+  links:
+    - text: Website
+      url: https://www.saintslgbt.com/
+  locations:
+    - St Andrews
+
+- title: Identity Inc (Cupar)
+  content: |
+    LGBT+ youth group in Cupar run by Fife Council, for 11-21 year olds. Meets Thursdays 4pm-5:30pm.
+  links:
+    - text: Website
+      url: https://www.lgbtyouth.org.uk/groups-and-support/find-local-youth-groups/identity-inc/
+    - text: Contact the Youth Worker
+      url: mailto:cuparyouthcafe@hotmail.co.uk
+  locations:
+    - Fife
+    - St Andrews
+    - Scotland
+
+- title: Spectrum (Dundee)
+  content: |
+    LGBT+ youth group in Dundee for 16-25 year olds. Meets Wednesdays 6:30pm-8:30pm.
+  links:
+    - text: Website
+      url: https://www.lgbtyouth.org.uk/groups-and-support/find-local-youth-groups/spectrum-dundee/
+  locations:
+    - Fife
+    - St Andrews
+    - Scotland
